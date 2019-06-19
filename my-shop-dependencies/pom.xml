@@ -14,7 +14,7 @@
     <packaging>pom</packaging>
 
     <name>my-shop-dependencies</name>
-    <description></description>
+    <description>1</description>
 
     <properties>
         <!-- 环境配置 -->
@@ -34,10 +34,10 @@
         <mybatis.version>3.2.8</mybatis.version>
         <mybatis-spring.version>1.3.1</mybatis-spring.version>
         <junit.version>4.12</junit.version>
-        <jackson.version>2.9.6</jackson.version>
+        <jackson.version>2.9.9</jackson.version>
         <lombok.version>1.16.18</lombok.version>
         <hibernate-validator.version>5.3.4.Final</hibernate-validator.version>
-        <commons-fileupload.version>1.3.2</commons-fileupload.version>
+        <commons-fileupload.version>1.3.3</commons-fileupload.version>
         <apache-httpclient.version>4.5.5</apache-httpclient.version>
         <kaptcha.version>2.3</kaptcha.version>
         <commons-email.version>1.5</commons-email.version>
